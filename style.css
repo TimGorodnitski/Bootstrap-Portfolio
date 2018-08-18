@@ -1,0 +1,41 @@
+
+
+nav {
+    background-color:white;
+    height: 100px;
+    border-bottom: 4px solid #777;
+}
+
+h1 {
+    color: aquamarine;
+}
+
+#brand {
+    background-color: aquamarine;
+    padding:25.5px;
+    position:relative;
+    left:100px;
+    color:white;
+    font-weight:bold;
+    font-size:30px;
+}
+
+#collapsingNavbar3 {
+    position:relative;
+    right:100px;
+}
+
+
+#row1 {
+    margin:40px;
+    background-color:white;
+    padding:20px;
+}
+
+img {
+    border-radius:20px;
+}
+
+#icons {
+    align-content: flex-end;
+}
